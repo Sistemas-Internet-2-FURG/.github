@@ -3,7 +3,6 @@
 Não esqueça de seguir o template de crianção de respoitorio a seguir.
 
 ## Template
-Repositório base para criação dos repositórios pessoais
 
 Cada repositório pessoal deve seguir a seguinte estrutura:
 
