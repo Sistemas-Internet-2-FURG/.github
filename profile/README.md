@@ -1,6 +1,6 @@
 # Bem vindo a Sistemas para Internet 2 2024
 
-Não esqueça de seguir o template de crianção de respoitorio a seguir.
+Não esqueça de seguir o template de criação de respoitorio a seguir.
 
 ## Template
 
