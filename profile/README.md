@@ -1,12 +1,18 @@
-## Hi there 👋
+## Bem vindo a Sistemas para Internet 2 2024
 
-<!--
+Não esqueça de seguir o template de crianção de respoitorio
+# Template
+Repositório base para criação dos repositórios pessoais
 
-**Here are some ideas to get you started:**
+Cada repositório pessoal deve seguir a seguinte estrutura:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- O nome do repositório deve ser da seguinte forma: Nome-Sobrenome-Matricula;
+- Utilize a estrutura de pasta a seguir:
+```
+	Filipe-Madruga-142397
+	| -- Avaliações
+	|    | -- Provas
+	|    | -- Trabalhos
+	| -- Outros
+             | -- Anotações de aula
+```
